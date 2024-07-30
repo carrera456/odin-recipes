@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(47,47,47);
+    color: ghostwhite;
+    text-align: justify;
+}
+
+.titol {
+    text-align: center;
+    font-size: 50px;
+}
+
+.llista {
+    font-size: 40px;
+    /* text-align: center; */
+}
+
+a {
+    color: darkgrey
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
